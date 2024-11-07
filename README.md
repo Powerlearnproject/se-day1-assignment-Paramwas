@@ -100,7 +100,9 @@ Vague Prompt:
 Improved Prompt:
 
 "Can you provide a summary of the different dog breeds and their characteristics, including size, temperament, and common health issues?"
+
 Why the Improved Prompt is More Effective:
+
 1.Clear and Specific
 2.Guides the Response
 3.Concise
